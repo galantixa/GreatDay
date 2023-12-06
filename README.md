@@ -38,5 +38,19 @@
 - Validasi dan reload nginx ```sudo nginx -t``` ```sudo systemctl reload nginx```
 ## masuk folder ```nodejs-express-mysql``` dan jalankan ```pm2 start```
 - ![Screenshot from 2023-12-06 15-15-06](https://github.com/galantixa/GreatDay/assets/92994294/e95d8a3a-2ca0-44cd-b82e-86f4482fa3fe)
+## Result
+- ![Screenshot from 2023-12-06 14-52-15](https://github.com/galantixa/GreatDay/assets/92994294/27cc4c9b-cc25-40bb-9806-c53dc54effae)
+- ![Screenshot from 2023-12-06 16-09-37](https://github.com/galantixa/GreatDay/assets/92994294/6844ca63-5247-4716-82c2-72a26af72847)
+## Additional! adding domain and ssl certificate
+### Using cerbot
+- ![Screenshot from 2023-12-06 16-22-19](https://github.com/galantixa/GreatDay/assets/92994294/af73bef7-3196-4692-9cd3-cd2acdff6ff3)
+- ![Screenshot from 2023-12-06 16-15-18](https://github.com/galantixa/GreatDay/assets/92994294/39f5ca0b-4c06-46b0-9b3a-cd2f817bfd4e)
+-  ![Screenshot from 2023-12-06 16-14-56](https://github.com/galantixa/GreatDay/assets/92994294/7f6015d4-92c9-4233-83f4-c606c2775d69)
+-  ![Screenshot from 2023-12-06 16-14-48](https://github.com/galantixa/GreatDay/assets/92994294/62483c51-8b67-469e-a0ec-5e4f4a76abe3)
+
+
+
+
+
 
 
